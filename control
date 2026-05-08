@@ -1,9 +1,8 @@
 Package: com.heaven.gd120hz
 Name: gd120hz
-Version: 0.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: This tweak makes the game Geometry Dash run at 120hz
 Maintainer: heaven
 Author: heaven
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
