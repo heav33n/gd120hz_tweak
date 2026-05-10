@@ -4,6 +4,7 @@ This tweak pushes Vanilla GD into achieving 120hz, in iOS.
 This isn't normally in the main game, so I did this if you want to do this.
 
 ## Requirements
+You need to provide your own decypted and unzipped IPA for Geometry Dash.
 You are required to use Linux for the ``install.sh`` script. You can compile this tweak on macOS also, but I don't really know if it's possible to compile this on Windows.
 Needs to have ``theos`` at home and ``ldid`` installed.
 
